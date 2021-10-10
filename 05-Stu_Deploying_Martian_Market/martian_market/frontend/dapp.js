@@ -1,5 +1,5 @@
 // @TODO: Update this address to match your deployed MartianMarket contract!
-const contractAddress = "0x7a377fAd8c7dB341e662c93A79d0B0319DD3DaE8";
+const contractAddress = "0x950A17ba3C60658114AF43C4a0839669b673B37C";
 
 const dApp = {
   ethEnabled: function() {
